@@ -22,3 +22,8 @@ Tradução não oficial de **Moonlight Peaks** para **Português Brasileiro (PT-
 - A tradução é aplicada automaticamente.
 - Nenhum arquivo original do jogo é modificado.
 - Para retornar ao idioma original, remova os arquivos da tradução.
+
+- ## 👤 Créditos
+
+**Tradução:** lives013  
+**GitHub:** [victoregit](https://github.com/victoregit)
